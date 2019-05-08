@@ -1,0 +1,3 @@
+const names = ['Selma', 'Ted', 'Mike', 'Sam', 'Sharon', 'Marvin'];
+
+    // Result: ['Selma', 'Sam', 'Sharon'];
